@@ -1,0 +1,12 @@
+{
+    "name": "dance-lynx/lynx-admin",
+    "description": "基于laravel的后台管理",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jack Zheng",
+            "email": "admin@sdc-studio.cn"
+        }
+    ],
+    "require": {}
+}
